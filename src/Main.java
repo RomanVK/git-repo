@@ -9,5 +9,6 @@ public class Main {
 	System.out.println("Hello GitHub!" + " " + "Fetch;");
         System.out.println("Hello costumer;");
         System.out.println("Hello advanced");
+        System.out.println("Hello second costumer");
     }
 }
