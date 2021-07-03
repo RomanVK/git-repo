@@ -6,6 +6,6 @@ public class Main {
         System.out.println("Hello myself!");
 	System.out.println("Hello GitHub!");
 	System.out.println("Hello GitHub!" + " " + "Update Project");
-	    
+	System.out.println("Hello GitHub!" + " " + "Fetch");	   
     }
 }
